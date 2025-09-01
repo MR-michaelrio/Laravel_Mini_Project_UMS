@@ -22,13 +22,13 @@
 ## Installation
 
 1. **Clone repository**
-git clone https://github.com/MR-michaelrio/Laravel_Mini_Project_UMS.git
-cd Laravel_Mini_Project_UMS
-composer install
-npm install
-npm run dev
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
-php artisan db:seed   # jika ada seeders
-php artisan serve
+- git clone https://github.com/MR-michaelrio/Laravel_Mini_Project_UMS.git
+- cd Laravel_Mini_Project_UMS
+- composer install
+- npm install
+- npm run dev
+- cp .env.example .env
+- php artisan key:generate
+- php artisan migrate
+- php artisan db:seed
+- php artisan serve
