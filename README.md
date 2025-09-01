@@ -5,7 +5,6 @@
 ## Tech Stack
 - **Backend:** Laravel 12, PHP 8.x
 - **Database:** MySQL / MariaDB
-- **Frontend:** Blade, Tailwind CSS / Bootstrap (sesuaikan)
 - **Version Control:** Git & GitHub
 
 ---
@@ -14,7 +13,7 @@
 - PHP >= 8.1
 - Composer
 - MySQL / MariaDB
-- Node.js & NPM (jika menggunakan Laravel Mix)
+- Node.js & NPM
 - Git
 
 ---
